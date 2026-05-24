@@ -3,5 +3,4 @@
 
 # But track .ini files and .gitignore itself
 !*.ini
-!/*.ini
 !.gitignore
