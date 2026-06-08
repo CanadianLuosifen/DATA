@@ -4,6 +4,7 @@
 # But track .ini files and .gitignore itself
 !*.ini
 !.gitignore
+!LICENSE
 
 # Do not ignore subdirectories
 !*/
